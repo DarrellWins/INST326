@@ -1,0 +1,18 @@
+AI Usage Journal
+Darrell Cox
+dcox1239@terpmail.umd.edu
+Section 0201
+
+Week 1
+This week I used AI while working on the internship opportunities to help me broaden my knowledge of ones I can apply for. 
+For instance, I asked about internships based in the dmv area. 
+I further specified the type of internship I am looking for by asking follow up questions. 
+Here is one of my AI chat links. https://chatgpt.com/share/68c71314-05d0-8002-9c52-c2c1a5c2ab6c
+
+I did not get paired up with a team yet due to having to miss class for RA meeting however,
+I did use chatgpt to help with project requierments. 
+
+I also tried out Gemini AI this week but didn’t have a good experience with it. 
+I ran a comparison test using the same questions about internships in Claude, ChatGPT, and Gemini, 
+and they all gave me different results even with the same inputs. 
+I used Claude to help me with ideas and learning, but I ended up liking the prompts for ChatGPT more.
