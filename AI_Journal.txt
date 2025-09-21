@@ -16,3 +16,12 @@ I also tried out Gemini AI this week but didn’t have a good experience with it
 I ran a comparison test using the same questions about internships in Claude, ChatGPT, and Gemini, 
 and they all gave me different results even with the same inputs. 
 I used Claude to help me with ideas and learning, but I ended up liking the prompts for ChatGPT more.
+
+Week 2 
+
+This week I used AI for most of the same as last week, internships, and career work however I also did other things.
+For one, I asked ChatGPT to give me some answers about a popular anime series "Bleach"
+Me and my friend was having a debate about a place in the anime called soul society and the direct size of it 
+Here is the chat link https://chatgpt.com/share/68cf60aa-0f00-8002-9665-0ca704eeabe3
+This allowed me to test the knowledge of the AI's memory
+
