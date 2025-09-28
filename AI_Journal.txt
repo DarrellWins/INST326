@@ -25,3 +25,9 @@ Me and my friend was having a debate about a place in the anime called soul soci
 Here is the chat link https://chatgpt.com/share/68cf60aa-0f00-8002-9665-0ca704eeabe3
 This allowed me to test the knowledge of the AI's memory
 
+Week 3 
+
+This week I used AI in a different manner than the other weeks. Classes have been picking up so I wanted to use it ot help with work
+The first thing I asked chatgpt was for my Park Scholars class where I put the prompt in the AI and it gave me a draft for a response.
+I then used it to check my code on R because my binomal test wasn't working and I needed to figure out how to solve the code.
+It helped for the draft but it took a while for it to help me with the code. Here is a link to the chat. https://chatgpt.com/share/68d8990a-4188-8002-8795-efb23f50358c 
