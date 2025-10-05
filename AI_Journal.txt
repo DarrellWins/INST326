@@ -31,3 +31,9 @@ This week I used AI in a different manner than the other weeks. Classes have bee
 The first thing I asked chatgpt was for my Park Scholars class where I put the prompt in the AI and it gave me a draft for a response.
 I then used it to check my code on R because my binomal test wasn't working and I needed to figure out how to solve the code.
 It helped for the draft but it took a while for it to help me with the code. Here is a link to the chat. https://chatgpt.com/share/68d8990a-4188-8002-8795-efb23f50358c 
+
+Week 4
+
+This week I used AI for debating. I said a quote that my friend disagreed with having any meaning. 
+The quote was "what goes down the needle comes out the mouth". We started debating if it had any real meaning and I asked chatgpt what it meant.
+Chatgpt then proved me right and then I won the debate with my friend. Here is the chatlog "https://chatgpt.com/share/68e2fdb4-604c-8013-ad85-221a997e1cc2"
