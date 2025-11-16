@@ -59,3 +59,8 @@ Week 8
 
 This week I used AI to help me determine different questions to ask amazon's AWS workers. I went to a meeting where they let us use their system to create a website.
 At the end of this meeting I wanted to connect with the workers and I used ChatGPT to ask for questions to ask based on the task. Here is a link to my log.
+
+Week 9
+
+This week I used AI to help me write some music and to help mix a bit. My friend in NY creates beats and she sent me one to rap over.
+I used AI to help me look for some rhymes and list some ideas to write about. log: https://chatgpt.com/c/68f8f4ce-d38c-8329-9de2-582abd26b3b7
